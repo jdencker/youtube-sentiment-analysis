@@ -1,0 +1,113 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "de889e50",
+   "metadata": {
+    "jupyter": {
+     "source_hidden": true
+    },
+    "papermill": {
+     "duration": 0.001893,
+     "end_time": "2025-10-15T12:07:34.537517",
+     "exception": false,
+     "start_time": "2025-10-15T12:07:34.535624",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "source": [
+    "# Youtube Sentiment Analysis\n",
+    "MORS 2025 Competition\n",
+    "\n",
+    "CPT Jonathan Dencker\n",
+    "\n",
+    "CPT John McCormick"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "84a28cb4",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2025-10-15T12:07:34.542069Z",
+     "iopub.status.busy": "2025-10-15T12:07:34.541732Z",
+     "iopub.status.idle": "2025-10-15T12:07:34.546387Z",
+     "shell.execute_reply": "2025-10-15T12:07:34.545686Z"
+    },
+    "papermill": {
+     "duration": 0.008591,
+     "end_time": "2025-10-15T12:07:34.547764",
+     "exception": false,
+     "start_time": "2025-10-15T12:07:34.539173",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "# Test Commit"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "afe01592",
+   "metadata": {
+    "papermill": {
+     "duration": 0.001118,
+     "end_time": "2025-10-15T12:07:34.550425",
+     "exception": false,
+     "start_time": "2025-10-15T12:07:34.549307",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kaggle": {
+   "accelerator": "none",
+   "dataSources": [],
+   "dockerImageVersionId": 31153,
+   "isGpuEnabled": false,
+   "isInternetEnabled": true,
+   "language": "python",
+   "sourceType": "notebook"
+  },
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.13"
+  },
+  "papermill": {
+   "default_parameters": {},
+   "duration": 5.027749,
+   "end_time": "2025-10-15T12:07:34.970534",
+   "environment_variables": {},
+   "exception": null,
+   "input_path": "__notebook__.ipynb",
+   "output_path": "__notebook__.ipynb",
+   "parameters": {},
+   "start_time": "2025-10-15T12:07:29.942785",
+   "version": "2.6.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
